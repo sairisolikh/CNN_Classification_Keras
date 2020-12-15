@@ -1,0 +1,8 @@
+Install all the prerequisite's like Keras , Tensorflow , Skimage
+
+Dataset Link:
+
+https://www.kaggle.com/tongpython/cat-and-dog
+
+
+*couldnt upload as the file size is too heavy
